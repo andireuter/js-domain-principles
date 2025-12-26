@@ -4,7 +4,7 @@ With this incredible domain-driven design toolkit, you can easily start coding w
 
 # Say Hello
 
-Hi, my name is Andi. I work as a Freelancing and Contract developer | Swift / iOS, macOS, GraphQL, Google Cloud and NodeJS for more than 13+ years 👋,
+Hi, my name is Andi. I work as a Lead iOS Engineer and Product Designer | Freelancing and Contract | Swift / iOS, macOS, GraphQL, Google Cloud and NodeJS for more than 13+ years 👋,
 
 I actively maintain this toolkit. :rocket:
 
