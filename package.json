@@ -1,5 +1,5 @@
 {
-  "name": "@andreasreuter/js-domain-principles",
+  "name": "@andireuter/js-domain-principles",
   "version": "0.1.0",
   "description": "Incredible domain-driven design toolkit to get you started coding with these principles.",
   "main": "lib/index.js",

@@ -14,12 +14,12 @@ I'm happy to share my domain-driven design knowledge with you. You can contact m
 
 You can find me on [![LinkedIn][1.2]][1], or on [![Behance][2.2]][2], or on [![HackerRank][3.2]][3].
 
-[1.2]: https://raw.githubusercontent.com/andreasreuter/andreasreuter/main/img/linkedin.png "LinkedIn icon"
-[2.2]: https://raw.githubusercontent.com/andreasreuter/andreasreuter/main/img/behance.png "Behance icon"
-[3.2]: https://raw.githubusercontent.com/andreasreuter/andreasreuter/main/img/hackerrank.png "HackerRank icon"
-[1]: https://www.linkedin.com/in/andreasreuter
+[1.2]: https://raw.githubusercontent.com/andireuter/andireuter/main/img/linkedin.png "LinkedIn icon"
+[2.2]: https://raw.githubusercontent.com/andireuter/andireuter/main/img/behance.png "Behance icon"
+[3.2]: https://raw.githubusercontent.com/andireuter/andireuter/main/img/hackerrank.png "HackerRank icon"
+[1]: https://www.linkedin.com/in/andireuter
 [2]: https://www.behance.net/andireuter
-[3]: https://www.hackerrank.com/andreasreuter
+[3]: https://www.hackerrank.com/andireuter
 
 # Further Reading
 
