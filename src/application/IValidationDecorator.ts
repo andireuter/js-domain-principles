@@ -6,4 +6,4 @@ interface IValidationDecorator<T> {
   validate(value: T): Result<T>
 }
 
-export { IValidationDecorator }
+export type { IValidationDecorator }

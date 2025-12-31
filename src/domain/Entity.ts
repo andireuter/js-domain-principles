@@ -34,4 +34,4 @@ abstract class Entity<T extends EntityProps> {
   }
 }
 
-export { Entity, EntityProps }
+export { Entity, type EntityProps }

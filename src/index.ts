@@ -1,23 +1,22 @@
 export {
-  UseCase,
-  IUseCaseError,
+  type UseCase,
+  type IUseCaseError,
   UseCaseError,
-  IValidator
+  type IValidator
 } from "./application"
 
 export {
   AggregateRoot,
   Entity,
   EntityId,
-  EntityProps,
+  type EntityProps,
   ValueObject,
-  DomainService,
-  IRepository,
+  type ValueObjectProps,
+  type DomainService,
+  type IRepository,
   Result
 } from "./domain"
 
-export { Mapper } from "./infrastructure"
+export type { Mapper } from "./infrastructure"
 
-export {
-  Instantiable
-} from "./Instantiable.typing"
+export type { Instantiable } from "./Instantiable.typing"

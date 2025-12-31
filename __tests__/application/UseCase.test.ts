@@ -1,6 +1,6 @@
 // eslint-disable-next-line jest/no-mocks-import
 import { RankingList, Score } from "../../__mocks__"
-import { Result, UseCase } from "../../src"
+import { Result, type UseCase } from "../../src"
 
 interface InsertScoreDTO {
   score: number

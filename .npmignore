@@ -8,7 +8,7 @@ jest.config.mjs
 
 # Source files
 src/
-rollup.config.mjs
+.parcel-cache/
 tsconfig*
 
 # ESLint files

@@ -2,4 +2,4 @@ interface IUseCaseError {
   message: string
 }
 
-export { IUseCaseError }
+export type { IUseCaseError }

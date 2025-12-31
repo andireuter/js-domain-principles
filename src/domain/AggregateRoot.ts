@@ -1,4 +1,4 @@
-import { Entity, EntityProps } from "./Entity"
+import { Entity, type EntityProps } from "./Entity"
 
 import { EntityId } from "./EntityId"
 

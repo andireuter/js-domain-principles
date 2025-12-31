@@ -1,1 +1,1 @@
-export { Mapper } from "./Mapper"
+export type { Mapper } from "./Mapper"

@@ -1,7 +1,7 @@
 // eslint-disable-next-line jest/no-mocks-import
 import { RankingList, Score } from "../../__mocks__"
 
-import { Mapper } from "../../src"
+import { type Mapper } from "../../src"
 
 interface RankingListDTO {
   score: number

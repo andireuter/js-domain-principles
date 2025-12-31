@@ -18,4 +18,4 @@ abstract class ValueObject<T extends ValueObjectProps> {
   }
 }
 
-export { ValueObject }
+export { ValueObject, type ValueObjectProps }

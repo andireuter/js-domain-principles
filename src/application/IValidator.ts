@@ -4,4 +4,4 @@ interface IValidator<T> {
   validate(value: T): Result<T>
 }
 
-export { IValidator }
+export type { IValidator }

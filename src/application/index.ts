@@ -1,4 +1,4 @@
-export { UseCase } from "./UseCase"
-export { IUseCaseError } from "./IUseCaseError"
+export type { UseCase } from "./UseCase"
+export type { IUseCaseError } from "./IUseCaseError"
 export { UseCaseError } from "./UseCaseError"
-export { IValidator } from "./IValidator"
+export type { IValidator } from "./IValidator"
