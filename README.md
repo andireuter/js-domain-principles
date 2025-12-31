@@ -2,7 +2,7 @@
 
 With this incredible domain-driven design toolkit, you can easily start coding with these principles. I recommend to read further literature [Khalil Stemmler: Domain-Driven Design](https://khalilstemmler.com/articles/categories/domain-driven-design) and my [Medium bookmarks](https://medium.com/@AndiReuter/list/domain-driven-design-b4ec21b36221).
 
-# Say Hello
+## Introduction
 
 Hi, my name is Andi. I work as a Lead iOS Engineer and Product Designer | Freelancing and Contract | Swift / iOS, macOS, GraphQL, Google Cloud and NodeJS for more than 13+ years 👋,
 
@@ -21,7 +21,27 @@ You can find me on [![LinkedIn][1.2]][1], or on [![Behance][2.2]][2], or on [![H
 [2]: https://www.behance.net/andireuter
 [3]: https://www.hackerrank.com/andireuter
 
-# Further Reading
+## Download and Install NPM Package
+
+You have to paste this file `.npmrc` in the root folder of your code base. Because this NPM package is published to GitHub.
+
+```bash
+@andireuter:registry=https://npm.pkg.github.com
+```
+
+### NPM
+
+```bash
+npm install @andireuter/js-domain-principles
+```
+
+### Deno
+
+```bash
+deno add @andireuter/js-domain-principles
+```
+
+## Further Reading
 
 - [My Medium bookmarks](https://medium.com/@AndiReuter/list/domain-driven-design-b4ec21b36221)
 - [More Readability with Dependency Injection (TypeDI)](https://docs.typestack.community/typedi/v/develop/01-getting-started)
