@@ -1,29 +1,15 @@
-
 node_modules/
-
-# Jest files
 __tests__/
 __mocks__/
 jest.config.mjs
-
-# Source files
 src/
 .parcel-cache/
 tsconfig*
-
-# ESLint files
 eslint.config.mjs
 .eslintcache
-
 .prettierrc.json
-
-# Pnpm
 pnpm*
-
-# VSCode files
 .vscode/
 .editorconfig
-
-# GitHub files
 .github/
 .gitignore

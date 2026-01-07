@@ -2,7 +2,7 @@
 
 With this incredible domain-driven design toolkit, you can easily start coding with these principles. I recommend to read further literature [Khalil Stemmler: Domain-Driven Design](https://khalilstemmler.com/articles/categories/domain-driven-design) and my [Medium bookmarks](https://medium.com/@AndiReuter/list/domain-driven-design-b4ec21b36221).
 
-## Introduction
+## A short word about OpenSource
 
 Hi, my name is Andi. I work as a Lead iOS Engineer and Product Designer | Freelancing and Contract | Swift / iOS, macOS, GraphQL, Google Cloud and NodeJS for more than 13+ years 👋,
 
@@ -10,7 +10,7 @@ I actively maintain this toolkit. :rocket:
 
 I love to share this well developed domain-driven design toolkit with you. You can use it whenever you want for free to develop an incredibly clean code structure.
 
-I'm happy to share my domain-driven design knowledge with you. You can contact me at any time [contact@andireuter.com](mailto:contact@andireuter.com?subject=JS%20Domain%20Principles).
+You can contact me at any time [contact@andireuter.com](mailto:contact@andireuter.com?subject=JS%20Domain%20Principles).
 
 You can find me on [![LinkedIn][1.2]][1], or on [![Behance][2.2]][2], or on [![HackerRank][3.2]][3].
 
