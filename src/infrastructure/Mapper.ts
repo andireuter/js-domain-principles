@@ -1,5 +1,10 @@
-import { AggregateRoot, EntityProps } from "../domain"
+import {
+  AggregateRoot,
+  EntityProps,
+  ValueObject,
+  ValueObjectProps
+} from "../domain"
 
-interface Mapper<T extends AggregateRoot<EntityProps>> { } // eslint-disable-line
+interface Mapper<T extends AggregateRoot<EntityProps> | ValueObject<ValueObjectProps>> { } // eslint-disable-line
 
 export type { Mapper }

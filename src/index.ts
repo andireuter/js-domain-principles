@@ -2,7 +2,9 @@ export {
   type UseCase,
   type IUseCaseError,
   UseCaseError,
-  type IValidator
+  type IValidator,
+  type IValidationDecorator,
+  ValidationDecorator
 } from "./application"
 
 export {
