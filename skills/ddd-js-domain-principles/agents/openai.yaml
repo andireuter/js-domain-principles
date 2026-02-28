@@ -1,0 +1,4 @@
+interface:
+  display_name: "DDD JS Domain Principles"
+  short_description: "Scaffold DDD codebases with js-domain-principles"
+  default_prompt: "Create or refactor a codebase to DDD using js-domain-principles."
