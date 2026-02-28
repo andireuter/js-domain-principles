@@ -10,5 +10,6 @@ export default {
       },
     ],
   },
-  verbose: true
+  verbose: true,
+  testPathIgnorePatterns: ["skills"]
 }
