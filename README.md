@@ -38,7 +38,64 @@ npm install @andireuter/js-domain-principles
 ### Deno
 
 ```bash
-deno add @andireuter/js-domain-principles
+deno add npm:@andireuter/js-domain-principles
+```
+
+## Folder structure
+
+This structure works for both workflows and agents, keeps naming consistent, a single bounded context.
+
+```text
+/src
+  /application
+    dto/
+    useCase/
+    validator/
+  /domain
+    aggregate/
+    domainService/
+    entity/
+    repository/
+    valueObject/
+  /infrastructure
+    config/
+    error/
+    api/
+    mapper/
+    persistence/
+```
+
+## Bounded Context-based folder structure
+
+This structure works for both workflows and agents, keeps naming consistent, grouping by bounded context.
+
+```text
+/src
+  /shared
+    /domain
+      entity/
+      valueObject/
+    /infrastructure
+      error/
+      apiClient/
+
+  /<boundedContext>
+    /application
+      dto/
+      useCase/
+      validator/
+    /domain
+      aggregate/
+      domainService/
+      entity/
+      repository/
+      valueObject/
+    /infrastructure
+      config/
+      error/
+      api/
+      mapper/
+      persistence/
 ```
 
 ## Further Reading
