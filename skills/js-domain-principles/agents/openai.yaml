@@ -1,0 +1,4 @@
+interface:
+  display_name: "JS Domain Principles"
+  short_description: "Scaffold domain-driven design codebases with js-domain-principles"
+  default_prompt: "Create or refactor a codebase to domain-driven design using js-domain-principles."

@@ -21,7 +21,7 @@ You can find me on [![LinkedIn][1.2]][1], or on [![Behance][2.2]][2], or on [![H
 [2]: https://www.behance.net/andireuter
 [3]: https://www.hackerrank.com/andireuter
 
-## Download and Install NPM Package
+## Install a Package
 
 You have to paste this file `.npmrc` in the root folder of your code base. Because this NPM package is published to GitHub.
 
@@ -39,6 +39,12 @@ npm install @andireuter/js-domain-principles
 
 ```bash
 deno add npm:@andireuter/js-domain-principles
+```
+
+## Install a Skill
+
+```bash
+npx skills add andireuter/js-domain-principles
 ```
 
 ## Folder structure

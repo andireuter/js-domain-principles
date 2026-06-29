@@ -1,6 +1,6 @@
 {
   "name": "@andireuter/js-domain-principles",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Incredible domain-driven design toolkit to get you started coding with these principles.",
   "main": "dist/index.js",
   "module": "dist/module.js",
